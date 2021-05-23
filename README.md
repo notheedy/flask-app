@@ -1,2 +1,2 @@
 # flask-app
-Getting along with Flash
+Getting along with Flask
